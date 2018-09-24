@@ -1,7 +1,7 @@
 /* style.css */
 body{
   background: rgb(245,245,245);
-  color: green;
+  color: blue;
   font-size: 25px;
   font-family: Helvetica;
 }
@@ -13,9 +13,9 @@ h1{
 }
 h2 {
   font-family: Courier;
-  color: pink;
+  color: blue;
   font-weight: lighter;
-  font-size: 8px;
+  font-size: 12px;
 }
 a {
   color: yellow;
